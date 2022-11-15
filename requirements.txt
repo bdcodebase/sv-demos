@@ -2,3 +2,4 @@ ipywidgets==7.6.5
 matplotlib==3.5.1
 numpy==1.21.5
 session_info==1.0.0
+ipympl==0.8.7
