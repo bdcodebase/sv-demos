@@ -3,3 +3,4 @@ matplotlib
 numpy
 ipympl
 session_info
+scipy
