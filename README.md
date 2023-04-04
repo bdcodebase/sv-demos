@@ -9,7 +9,8 @@
 - Laplace: Zuordnung von Punkten in der Laplace-Ebene zu Zeitbereichssignalen
 - Pulsox_D: Prinzip der Pulsoximetrie, Zusammenhang zwischen Plethysmogrammen und Sättigungswert
 - RC-Tiefpass: Verschiedene Darstellung von Übertragungsfunktionen am Beispiel RC-Glied, Herleitung Bode-Diagramm 
-- Sin_Cos_Kompl_Schwindung: Zusammenhang zwischen komplexen Schwingungen und Sin/Cos
+- Sampling: Unterabtastung bei einem EKG-Signal
+- Sin_Cos_Kompl_Schwingung: Zusammenhang zwischen komplexen Schwingungen und Sin/Cos
 - Spektren: Interaktive Korrespondenztabelle für die Fouriertransformation, incl. Skalierung und Verschiebung
 - sPlot: Darstellung von H(s) in der Laplace-Ebene
 - zPlot: Darstellung von H(z) in der z-Ebene
